@@ -29,22 +29,29 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
+![banner4](https://user-images.githubusercontent.com/119056854/210134175-c31480b8-4ff4-493a-b747-d82ab3af0e5c.jpg)
 
+![banner7](https://user-images.githubusercontent.com/119056854/210134182-2b3f2e72-8adc-449b-b6c9-df804838016c.jpg)
 
+![banner1](https://user-images.githubusercontent.com/119056854/210134187-92ce07e9-6536-4d59-bf1c-e0af46f850d7.jpg)
 
-   
+   ![s1](https://user-images.githubusercontent.com/119056854/210134230-8b84a2b8-ce0e-4b0b-a2cd-7310d09c469b.jpg)
 
-### About Us -
+![logo-icon](https://user-images.githubusercontent.com/119056854/210134249-3b259d5e-a652-488d-be86-20308e48f3b2.png)
 
+### About Us -file:///C:/Users/SYS-1/Desktop/Desktop%20Docs/Downloads/kovid-starter_Free30-04-2021_966284552/Kovid-Starter/about.html
+![b3](https://user-images.githubusercontent.com/119056854/210134202-9ad8d8cb-fd6e-48db-b24f-a0a405a14739.jpg)
+
+file:///C:/Users/SYS-1/Desktop/Desktop%20Docs/Downloads/kovid-starter_Free30-04-2021_966284552/Kovid-Starter/about.html
 
 
 ### Services -
 
-
+file:///C:/Users/SYS-1/Desktop/Desktop%20Docs/Downloads/kovid-starter_Free30-04-2021_966284552/Kovid-Starter/services.html
 
 ### Contact us -
 
-
+file:///C:/Users/SYS-1/Desktop/Desktop%20Docs/Downloads/kovid-starter_Free30-04-2021_966284552/Kovid-Starter/contact.html
 
 
 
